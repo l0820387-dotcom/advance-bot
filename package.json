@@ -1,0 +1,22 @@
+{
+  "name": "telegram-developer-utility-bot",
+  "version": "2.0.0",
+  "description": "Premium All-in-One Developer Utility Telegram Bot with Inline Telegram Admin Panel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "developer-tools",
+    "admin-panel",
+    "apk-inspector",
+    "web-tools"
+  ],
+  "author": "Developer",
+  "license": "MIT"
+}
